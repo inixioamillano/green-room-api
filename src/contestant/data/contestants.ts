@@ -226,7 +226,7 @@ export const CONTESTANTS: CreateContestantDto[] = [
         eliminated: false
     },
     {
-        countryCode: 'CR',
+        countryCode: 'CHR',
         countryName: 'Czesch Republic',
         songTitle: 'Omaga',
         singer: 'Benny Cristo',
